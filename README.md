@@ -125,7 +125,7 @@ else:
 
 ## お問い合わせ
 
-**Yuya Nishimoto**
+**Yuya Yamamoto**
 
 - Email: [dr_jingles@mac.com](dr_jingles@mac.com)
 - GitHub: [nejumi](https://github.com/nejumi)
