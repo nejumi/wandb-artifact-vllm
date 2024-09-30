@@ -129,7 +129,3 @@ else:
 
 - Email: [dr_jingles@mac.com](dr_jingles@mac.com)
 - GitHub: [nejumi](https://github.com/nejumi)
-
----
-
-*このREADMEはプロジェクトの概要と基本的な使用方法を簡潔にまとめたものです。必要に応じて内容を追加・修正してください。*
